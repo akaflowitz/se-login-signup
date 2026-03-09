@@ -10,6 +10,7 @@ body {
     margin: 0;
 }
 
+/* Textbox formatting*/
 .container {
     background: white;
     padding: 30px;
@@ -34,6 +35,7 @@ input {
     padding: 8px;
 }
 
+/* Button formatting*/
 button {
     margin-top: 15px;
     padding: 10px;
